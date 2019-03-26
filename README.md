@@ -1,2 +1,4 @@
-####
-![GUESS_WORD](ScreenShots/Main Window.png)
+## ScreenShots
+
+##### Winning Game
+![GUESS_WORD](ScreenShots/Function.png)
