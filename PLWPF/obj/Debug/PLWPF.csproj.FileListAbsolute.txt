@@ -1,0 +1,1101 @@
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (6)\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\addContractWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\addContractWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\addContractWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\מעודכן 19.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+F:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe.config
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.exe
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\PLWPF.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\App.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addContractWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployeeWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addEmployerWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\addSpecializationWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\contractWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteContractWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployeeWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteEmployerWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\deleteSpecializationWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employeeWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\employerWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingByAddressUserControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingBySpecialUserControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GruopingEarnByYears.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\isArmyUserControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\LinqWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\GroupingSpecialOrderByDegreeUserControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\MoreFunc.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\Linq_Window\PresentForBirthdayUserControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MainWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\MoreFuncWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\NumericUpDownControl.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\specializationWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateContractWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployeeWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateEmployerWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\updateSpecializationWindow.baml
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.g.resources
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\תבונה\פרויקט C#\סופי\dotNet5777_Project01_7416_5051\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache

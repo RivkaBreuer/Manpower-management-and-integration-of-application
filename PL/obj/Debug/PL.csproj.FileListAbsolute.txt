@@ -1,0 +1,140 @@
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\שב\שנה ב\c#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\Users\User\Downloads\dotNet5777_Project01_7416_5051 (4)\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט C#\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 18.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט C#\תיקיה חדשה\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+E:\מעודכן 21.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 22.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe.config
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\PL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.dll
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BE.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\BL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DAL.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\bin\Debug\DS.pdb
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.exe
+C:\תבונה\פרויקט C#\מעודכן 27.6.17\dotNet5777_Project01_7416_5051\PL\obj\Debug\PL.pdb

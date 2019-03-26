@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<specializationXml.xml>
+  <specialization>
+    <SpecialNum>10000001</SpecialNum>
+    <SpecializationName>java</SpecializationName>
+    <Field>programmingLanguages</Field>
+    <Tarif>
+      <TariffMin>80</TariffMin>
+      <TariffMax>180</TariffMax>
+    </Tarif>
+  </specialization>
+  <specialization>
+    <SpecialNum>10000002</SpecialNum>
+    <SpecializationName>SQL</SpecializationName>
+    <Field>DataBase</Field>
+    <Tarif>
+      <TariffMin>60</TariffMin>
+      <TariffMax>130</TariffMax>
+    </Tarif>
+  </specialization>
+  <specialization>
+    <SpecialNum>10000003</SpecialNum>
+    <SpecializationName>c++</SpecializationName>
+    <Field>programmingLanguages</Field>
+    <Tarif>
+      <TariffMin>90</TariffMin>
+      <TariffMax>190</TariffMax>
+    </Tarif>
+  </specialization>
+  <specialization>
+    <SpecialNum>10000006</SpecialNum>
+    <SpecializationName>HH</SpecializationName>
+    <Field>MediaCommunication</Field>
+    <Tarif>
+      <TariffMin>50</TariffMin>
+      <TariffMax>100</TariffMax>
+    </Tarif>
+  </specialization>
+</specializationXml.xml>

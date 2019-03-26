@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BE.Contract" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAIAVAAQAAAAACAAAAAABAAAAACBCAAA=</HashCode>
+      <FileName>Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Employee" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAACAEAACQAAAAQEAAAEAAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Employer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQCQEAAAAAAAAAEAAAAAAAAAAAQAAACAAAAAAAIAAg=</HashCode>
+      <FileName>Employer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.myEnum" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Specialization" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAEEAAAAAAQAAAAAAAAAAAEAABAAAA=</HashCode>
+      <FileName>Specialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BE.BankAccount" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAQAAAUAAAAAAAFAAAAAAAAA=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="BE.FieldName" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAAAABAAAAAAAAQAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BE.Degree" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAYQA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BE.DomainTraffic" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAFAoAAABAAEAECBBABAAAAAAAAAAAwJCAAAACABA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

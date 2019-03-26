@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contractXml.xml>
+  <contract>
+    <ContractNum>20000001</ContractNum>
+    <EmployeeId>203167416</EmployeeId>
+    <EmployerId>201542325</EmployerId>
+    <DateBegingEmployin>01/01/2015 00:00:00</DateBegingEmployin>
+    <DateEndEmploying>01/01/2020 00:00:00</DateEndEmploying>
+    <IsSign>True</IsSign>
+    <IsInterview>True</IsInterview>
+    <HoursNum>200</HoursNum>
+    <HourSalaryN>97.5442104</HourSalaryN>
+    <HourSalaryG>107.19144</HourSalaryG>
+  </contract>
+  <contract>
+    <ContractNum>20000004</ContractNum>
+    <EmployeeId>203167416</EmployeeId>
+    <EmployerId>201542325</EmployerId>
+    <DateBegingEmployin>03/01/0001 00:00:00</DateBegingEmployin>
+    <DateEndEmploying>10/01/0001 00:00:00</DateEndEmploying>
+    <IsSign>True</IsSign>
+    <IsInterview>True</IsInterview>
+    <HoursNum>50</HoursNum>
+    <HourSalaryN>63.7</HourSalaryN>
+    <HourSalaryG>70</HourSalaryG>
+  </contract>
+</contractXml.xml>

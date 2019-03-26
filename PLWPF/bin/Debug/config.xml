@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config.xml>
+  <staticNumber>
+    <specialization>10000006</specialization>
+    <contract>20000004</contract>
+  </staticNumber>
+</config.xml>

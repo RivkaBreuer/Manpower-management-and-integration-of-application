@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employeeXml.xml>
+  <employee>
+    <Id>203167416</Id>
+    <FirstName>riki</FirstName>
+    <LastName>breuer</LastName>
+    <ImageSource>pack://application:,,,/PLWPF;component/images/passport/empty_image.gif</ImageSource>
+    <GraduateArmy>False</GraduateArmy>
+    <bank>
+      <AccountNo>9988776</AccountNo>
+      <BankName>בנק לאומי לישראל בע"מ</BankName>
+      <BranchNo>639</BranchNo>
+      <BranchCity>קיסריה</BranchCity>
+      <BranchAdd>תרשיש 5 אזור תעשיה קיסריה</BranchAdd>
+      <BankNo>10</BankNo>
+    </bank>
+    <PhoneNum>0548489320</PhoneNum>
+    <Special>10000002</Special>
+    <Address>hakablan</Address>
+    <DateBirth>02/06/1992 00:00:00</DateBirth>
+    <degreeType>Student</degreeType>
+  </employee>
+  <employee>
+    <Id>203167454</Id>
+    <FirstName>rachel</FirstName>
+    <LastName>gold</LastName>
+    <ImageSource>Empty Image</ImageSource>
+    <GraduateArmy>true</GraduateArmy>
+    <bank>
+      <AccountNo>6589653</AccountNo>
+      <BankName>בנק ירושלים בע"מ</BankName>
+      <BranchNo>36</BranchNo>
+      <BranchCity>מודיעין עילית</BranchCity>
+      <BranchAdd>אבני נזר 18 7728511</BranchAdd>
+      <BankNo>54</BankNo>
+    </bank>
+    <PhoneNum>0527145632</PhoneNum>
+    <Special>10000001</Special>
+    <Address>lev</Address>
+    <DateBirth>1998-06-01T00:00:00</DateBirth>
+    <degreeType>Student</degreeType>
+  </employee>
+  <employee>
+    <Id>111111222</Id>
+    <FirstName />
+    <LastName />
+    <ImageSource>Empty Image</ImageSource>
+    <GraduateArmy>false</GraduateArmy>
+    <bank>
+      <AccountNo>66</AccountNo>
+      <BankName>בנק הפועלים בע"מ</BankName>
+      <BranchNo>636</BranchNo>
+      <BranchCity>נס ציונה</BranchCity>
+      <BranchAdd>הבנים 1</BranchAdd>
+      <BankNo>12</BankNo>
+    </bank>
+    <PhoneNum />
+    <Special>10000001</Special>
+    <Address />
+    <DateBirth>0001-01-01T00:00:00</DateBirth>
+    <degreeType>Student</degreeType>
+  </employee>
+  <employee>
+    <Id>126559320</Id>
+    <FirstName>yehoshua</FirstName>
+    <LastName>milston</LastName>
+    <ImageSource>C:/Users/User/Desktop/111/passport/user_4.jpg</ImageSource>
+    <GraduateArmy>true</GraduateArmy>
+    <bank>
+      <AccountNo>9876543</AccountNo>
+      <BankName>בנק אוצר החייל בע"מ</BankName>
+      <BranchNo>346</BranchNo>
+      <BranchCity>נתניה</BranchCity>
+      <BranchAdd>דיזינגוף 22</BranchAdd>
+      <BankNo>14</BankNo>
+    </bank>
+    <PhoneNum>998765409</PhoneNum>
+    <Special>10000002</Special>
+    <Address>jerusalem</Address>
+    <DateBirth>1939-01-01T00:00:00</DateBirth>
+    <degreeType>BSc</degreeType>
+  </employee>
+</employeeXml.xml>
