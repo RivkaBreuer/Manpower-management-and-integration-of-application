@@ -1,6 +1,6 @@
-## ScreenShots
+## Screen Shots
 
-##### MainWindow
-![GUESS_WORD](ScreenShots/Main Window.PNG)
+##### Main Window
+![GUESS_WORD](ScreenShots/MainWindow.PNG)
 
 
